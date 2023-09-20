@@ -1,5 +1,5 @@
-# fullstack_formation_training
-**Some projects and drills done during the fullstack training**
+# data_fullstack_formation_training
+**Some projects and drills done during the data fullstack training**
 
 Jupyter notebooks as well as python files
 
