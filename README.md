@@ -1,8 +1,6 @@
-![Cover](https://github.com/Helidow74/fullstack_formation_training/blob/main/image74.png)
-
-
 # data_fullstack_formation_training
 
+![Cover](https://github.com/Helidow74/fullstack_formation_training/blob/main/image74.png)
 
 👩‍🎓 **Some experiments and drills done during my data fullstack training**
 
