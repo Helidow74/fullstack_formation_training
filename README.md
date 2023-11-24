@@ -4,6 +4,7 @@
 👩‍🎓 **Some experiments and drills done during my data fullstack training**
 
  🐍 All the code you'll find here is written in Python, and most of the files are in Jupyter Notebooks. 
+ It's the result of learning exercises and are therefore mainly based on pedagogical interest. For this reason, some bits of code cannot be transposed as they stand to a real-life situation. 
 
 
 -------------------------------
