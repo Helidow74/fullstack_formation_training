@@ -1,3 +1,6 @@
+![Cover](https://github.com/Helidow74/fullstack_formation_training/blob/main/image74.png)
+
+
 # data_fullstack_formation_training
 
 
