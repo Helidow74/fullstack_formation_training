@@ -1,4 +1,6 @@
 # data_fullstack_formation_training
+
+ ![image](https://github.com/Helidow74/fullstack_formation_training/assets/103674276/f3450f33-5d1f-415d-91a8-fa4856efc604)
 **Some experiments and drills done during my data fullstack training**
 
 Most of the files are Jupyter Notebooks.
