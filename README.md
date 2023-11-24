@@ -3,7 +3,7 @@
 
 👩‍🎓 **Some experiments and drills done during my data fullstack training**
 
- 🐍 Most of the files are Jupyter Notebooks with python code.
+ 🐍 All the code you'll find here is written in Python, and most of the files are in Jupyter Notebooks. 
 
 
 -------------------------------
